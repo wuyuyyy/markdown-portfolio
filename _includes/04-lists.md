@@ -1,3 +1,3 @@
-1.book
-2.books
-3.github
+1. book
+2. books
+3. github
